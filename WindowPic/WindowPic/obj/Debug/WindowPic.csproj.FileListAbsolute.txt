@@ -1,0 +1,9 @@
+E:\CShape\WindowPic\WindowPic\bin\Debug\WindowPic.exe.config
+E:\CShape\WindowPic\WindowPic\bin\Debug\WindowPic.exe
+E:\CShape\WindowPic\WindowPic\bin\Debug\WindowPic.pdb
+E:\CShape\WindowPic\WindowPic\obj\Debug\WindowPic.csprojResolveAssemblyReference.cache
+E:\CShape\WindowPic\WindowPic\obj\Debug\WindowPic.Properties.Resources.resources
+E:\CShape\WindowPic\WindowPic\obj\Debug\WindowPic.csproj.GenerateResource.Cache
+E:\CShape\WindowPic\WindowPic\obj\Debug\WindowPic.exe
+E:\CShape\WindowPic\WindowPic\obj\Debug\WindowPic.pdb
+E:\CShape\WindowPic\WindowPic\obj\Debug\WindowPic.Form1.resources

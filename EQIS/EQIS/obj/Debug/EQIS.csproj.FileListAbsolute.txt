@@ -1,0 +1,16 @@
+D:\CShape\EQIS\EQIS\bin\Debug\EQIS.exe.config
+D:\CShape\EQIS\EQIS\bin\Debug\EQIS.exe
+D:\CShape\EQIS\EQIS\bin\Debug\EQIS.pdb
+D:\CShape\EQIS\EQIS\bin\Debug\MySql.Data.dll
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.csprojResolveAssemblyReference.cache
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.Properties.Resources.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.csproj.GenerateResource.Cache
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.exe
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.pdb
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.WelcomeForm.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.SysForm.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.Query.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.Test_Tmp.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.AdminForm.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.AddUser.resources
+D:\CShape\EQIS\EQIS\obj\Debug\EQIS.PowerManage.resources

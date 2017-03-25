@@ -1,0 +1,6 @@
+E:\CShape\SerializableAndDeserialize\SerializableAndDeserialize\bin\Debug\SerializableAndDeserialize.exe.config
+E:\CShape\SerializableAndDeserialize\SerializableAndDeserialize\bin\Debug\SerializableAndDeserialize.exe
+E:\CShape\SerializableAndDeserialize\SerializableAndDeserialize\bin\Debug\SerializableAndDeserialize.pdb
+E:\CShape\SerializableAndDeserialize\SerializableAndDeserialize\obj\Debug\SerializableAndDeserialize.csprojResolveAssemblyReference.cache
+E:\CShape\SerializableAndDeserialize\SerializableAndDeserialize\obj\Debug\SerializableAndDeserialize.exe
+E:\CShape\SerializableAndDeserialize\SerializableAndDeserialize\obj\Debug\SerializableAndDeserialize.pdb

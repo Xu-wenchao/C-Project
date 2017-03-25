@@ -1,0 +1,9 @@
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\bin\Debug\SimulateOfficalProgram.exe.config
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\bin\Debug\SimulateOfficalProgram.exe
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\bin\Debug\SimulateOfficalProgram.pdb
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.csprojResolveAssemblyReference.cache
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.Form1.resources
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.Properties.Resources.resources
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.csproj.GenerateResource.Cache
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.exe
+E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.pdb

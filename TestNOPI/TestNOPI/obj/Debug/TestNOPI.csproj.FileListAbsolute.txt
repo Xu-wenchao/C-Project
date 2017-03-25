@@ -1,0 +1,9 @@
+E:\CShape\TestNOPI\TestNOPI\bin\Debug\TestNOPI.exe.config
+E:\CShape\TestNOPI\TestNOPI\bin\Debug\TestNOPI.exe
+E:\CShape\TestNOPI\TestNOPI\bin\Debug\TestNOPI.pdb
+E:\CShape\TestNOPI\TestNOPI\bin\Debug\NPOI.dll
+E:\CShape\TestNOPI\TestNOPI\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\CShape\TestNOPI\TestNOPI\bin\Debug\NPOI.xml
+E:\CShape\TestNOPI\TestNOPI\obj\Debug\TestNOPI.csprojResolveAssemblyReference.cache
+E:\CShape\TestNOPI\TestNOPI\obj\Debug\TestNOPI.exe
+E:\CShape\TestNOPI\TestNOPI\obj\Debug\TestNOPI.pdb
