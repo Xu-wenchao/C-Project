@@ -7,3 +7,12 @@ E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOffica
 E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.csproj.GenerateResource.Cache
 E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.exe
 E:\CShape\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.pdb
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\bin\Debug\SimulateOfficalProgram.exe.config
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.exe
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.pdb
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\bin\Debug\SimulateOfficalProgram.exe
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\bin\Debug\SimulateOfficalProgram.pdb
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.csprojResolveAssemblyReference.cache
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.Form1.resources
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.Properties.Resources.resources
+E:\CSharp\learncode\SimulateOfficalProgram\SimulateOfficalProgram\obj\Debug\SimulateOfficalProgram.csproj.GenerateResource.Cache

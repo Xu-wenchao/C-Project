@@ -106,7 +106,10 @@ namespace SimulateOfficalProgram
             //密码区
             for (int i = 0; i < codeNum; i++)
             {
-                e.Graphics.DrawImage(imgArr[codes[i] - 1], new Rectangle(350 + 40 * i, 90, 40, 80));
+                //e.Graphics.DrawImage(imgArr[codes[i] - 1], new Rectangle(350 + 40 * i, 90, 40, 80));
+                //e.Graphics.DrawString(codes[i - 1], new Rectangle(350 + 40 * i, 90, 40, 80));
+                e.Graphics.DrawString(codes[i].ToString(), new Font("黑体", 72), new SolidBrush(Color.Black), 
+                    new Point(350 + 80 * i, 70));
             }
             for (int i = 0; i < 5; i++)
             {
